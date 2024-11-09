@@ -38,3 +38,11 @@ Enter 6 strings:
 Output:
 Accepted: ababb, abb
 Rejected: aab, bbb, aabb, ab
+
+## Project Highlights
+- **Flexible**: Users can specify both the regular expression and a customizable list of strings, making it adaptable to various applications.
+- **Versatile Application**: Useful in fields like natural language processing, compiler design, and data manipulation.
+- **Educational Value**: Demonstrates the power of regular expressions, helping users fine-tune them for specific language patterns.
+
+This project offers a straightforward, interactive approach to understanding regular expressions and their behavior in different language contexts. It emphasizes the importance of pattern matching and showcases the role of regular expressions in computational linguistics and data processing.
+
