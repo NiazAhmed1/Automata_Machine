@@ -24,20 +24,7 @@ This project, written in C++, is designed to help users explore the behavior of 
 4. **View Output**:
    - The program will display the results, indicating which strings are **accepted** or **rejected** by the provided regular expression.
 
-## Example
-```plaintext
-Enter a regular expression: (a|b)*abb
-Enter 6 strings:
-> ababb
-> abb
-> aab
-> bbb
-> aabb
-> ab
 
-Output:
-Accepted: ababb, abb
-Rejected: aab, bbb, aabb, ab
 
 ## Project Highlights
 - **Flexible**: Users can specify both the regular expression and a customizable list of strings, making it adaptable to various applications.
