@@ -25,18 +25,19 @@ This project, written in C++, is designed to help users explore the behavior of 
    - The program will display the results, indicating which strings are **accepted** or **rejected** by the provided regular expression.
 ## Example
 ```plaintext 
-Enter a regular expression: (a|b)*abb
+plaintext
+Enter a regular expression: (a|b)*a
 Enter 6 strings:
-> ababb
-> abb
-> aab
+> aaaa
 > bbb
-> aabb
-> ab
+> aba
+> e
+> a
+> b
 
 Output:
-Accepted: ababb, abb
-Rejected: aab, bbb, aabb, ab
+Accepted: aaaa, aba,a 
+Rejected: bbb, e, b
 ```
 
 ## Project Highlights
